@@ -1,0 +1,102 @@
+body{
+    background-image: url("images/background 1.png");
+    background-color: gray;
+    background-size: cover;
+}
+
+body h1{
+    color: white;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body .logo img{
+    height: 200px;
+    width: 200px;
+}
+
+.introduction{
+    height: 100px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 25px;
+}
+
+body .introduction p{
+    color: white;
+    font-size: large;
+    font-family: "Lucida Console", "Courier New", monospace;
+    word-spacing: normal;
+    line-height: 1.8;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.direction{
+    background-color: white;
+    height: 800px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    border-radius: 25px;
+}
+
+body .direction h2{
+    color: black;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: xx-large;
+}
+
+body .fox img{
+    width: 750px;
+    height: auto;
+    margin-left: 25;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+.truth{
+    width: 750px;
+    height: auto;
+    margin-left: 25;
+    margin-right: auto;
+}
+
+body .direction .truth p{
+    color: black;
+    font-size: large;
+}
+
+body .direction .truth a{
+    color: black;
+    margin-left: 300px;
+    margin-right: auto;
+}
+
+.contact{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body .truth .contact a{
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+body .contact img{
+    height: 150px;
+    width: 150px;
+}
