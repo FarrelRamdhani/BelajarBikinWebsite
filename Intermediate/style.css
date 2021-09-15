@@ -5,9 +5,10 @@ body{
 }
 
 .menu{
-    background-color: red;
     height: 100px;
-    float: left;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body .menu img{
@@ -19,8 +20,8 @@ body .menu img{
 .webtitle{
     height: 100px;
     width: 400px;
-    margin-top: 0;
-    margin-left: 150px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body .webtitle h1{
